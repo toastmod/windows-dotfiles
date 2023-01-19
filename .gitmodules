@@ -1,3 +1,4 @@
 [submodule "AppData/Local/nvim"]
 	path = AppData/Local/nvim
 	url = https://github.com/toastmod/nvim-dotfiles.git
+    branch = laptop
